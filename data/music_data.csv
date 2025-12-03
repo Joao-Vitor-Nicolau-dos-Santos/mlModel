@@ -1,0 +1,9 @@
+id,title,artist,genre,mood,energy,danceability,valence,tempo,acousticness,instrumentalness,liveness,speechiness
+1,Música Feliz,Banda Alegre,Pop,feliz,0.8,0.9,0.9,120,0.1,0.1,0.1,0.05
+2,Blues Triste,Alma Melancólica,Blues,triste,0.2,0.3,0.1,60,0.8,0.2,0.2,0.04
+3,Rock Energético,Rockers Poderosos,Rock,animado,0.9,0.6,0.7,140,0.2,0.3,0.8,0.08
+4,Jazz Calmo,Trio Jazz Suave,Jazz,calmo,0.3,0.4,0.6,80,0.9,0.7,0.3,0.05
+5,Hino Motivacional,Crew Inspiração,Pop,motivado,0.7,0.7,0.8,110,0.3,0.2,0.4,0.06
+6,Balada Romântica,Corações Amorosos,Ballad,romântico,0.4,0.5,0.8,70,0.7,0.1,0.2,0.05
+7,Metal Raivoso,Máquina de Raiva,Metal,raivoso,0.95,0.2,0.3,160,0.1,0.8,0.7,0.15
+8,Piano Pacífico,Teclas Tranquilas,Clássico,pacífico,0.1,0.2,0.7,75,0.95,0.9,0.1,0.04
