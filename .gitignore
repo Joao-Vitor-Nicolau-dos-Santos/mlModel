@@ -1,0 +1,98 @@
+# Ambientes virtuais do Python
+venv/
+env/
+ENV/
+.venv/
+.env/
+.ENV/
+
+# Arquivos do pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Arquivos do Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.pyc
+*.pyo
+*.pyd
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.git/modules/
+.pytest_cache/
+.hypothesis/
+
+# Arquivos do Jupyter Notebook
+.ipynb_checkpoints
+
+# Arquivos do sistema operacional
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Arquivos de configuração local e sensíveis
+.env
+.env.local
+.env.*.local
+*.env
+.envrc
+.env.localrc
+.config
+.settings
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+*~
+
+# Arquivos de dados temporários ou grandes (opcional, mas recomendado se os dados crescerem)
+data/*.csv  # Se quiser versionar o CSV base, remova esta linha
+data/*.json
+data/*.txt
+data/*.xlsx
+*.csv
+*.json
+*.txt
+*.xlsx
+
+# Arquivos de saída do modelo (se salvar)
+model.pkl
+model.joblib
+
+# Arquivos de banco de dados locais (não versione o banco de dados real)
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# Arquivos de build e dist
+build/
+dist/
+*.egg
+*.egg-info/
+MANIFEST
+*.spec
+
+# Arquivos do Docker (se adicionar Docker no futuro)
+.dockerignore
+Dockerfile
+docker-compose.yml
+
+# Arquivos de IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
